@@ -3,7 +3,6 @@
 
 #define MAX_CANDIDATES 5
 
-// Structure to hold candidate data
 typedef struct {
     char name[100];
     int votes;
